@@ -16,16 +16,6 @@
         font-family: 'Montserrat', sans-serif;
     }
 
-    .attribution {
-        font-size: 11px;
-        text-align: center;
-    }
-
-    .attribution a {
-        text-decoration: none;
-        color: hsl(228, 45%, 44%);
-    }
-
 /* MEDIA QUERIES */
 
     @media screen and (min-width: 0px) {
@@ -130,6 +120,16 @@
 
         .card-bottom a:hover {
             background-color: hsl(212, 21%, 14%);
+        }
+
+        .attribution {
+            font-size: 11px;
+            text-align: center;
+        }
+
+        .attribution a {
+            text-decoration: none;
+            color: hsl(158, 36%, 37%);
         }
 
         /* ID */
